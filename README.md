@@ -1,3 +1,7 @@
-### Hi there 👋
+### Hi I'm Nikolas 👋
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+Welcome to my Github profile.
+I am passionate about developing on golang and javascript 🤖
+
+you can reach me with theses ways
+👈 See here🙂
